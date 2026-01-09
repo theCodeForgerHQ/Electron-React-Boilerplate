@@ -1,6 +1,6 @@
 import path from "path";
 import { app, BrowserWindow } from "electron";
-import { isDev } from "./utils";
+import { isDev } from "./utils.js";
 
 app.setName("Electron + React App");
 
